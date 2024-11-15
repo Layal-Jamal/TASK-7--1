@@ -1,0 +1,43 @@
+.Client h2{
+font-size: 26px;
+font-weight: bold;
+color: black;
+margin-top: 6px;
+}
+.sec-title{
+    text-align: center;
+}
+.TESTIMONIALS{
+    color: #384bff;
+}
+.Client{
+    background-color: #f2f6fe;
+    position: relative;
+    margin-top: 300px;
+}
+.firstsec{
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #fff;
+    background-color: #384bff;
+    padding: 40px 70px;
+    border-radius: 20px;
+    position: absolute;
+    top: -38%;
+    left: 5%;
+}
+ .firstsec button{
+    border: none;
+    outline: none;
+    padding: 8px;
+    border-radius: 50px;
+    background-color: #fff;
+    font-size: 15px;
+    width: 250px;
+} 
+.expert{
+    font-size: 26px;
+    font-weight: bold;
+}

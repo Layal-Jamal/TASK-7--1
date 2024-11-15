@@ -1,0 +1,47 @@
+.Our-pricing h2{
+font-size: 26px;
+font-weight: bold;
+color: black;
+margin-top: 6px;
+}
+.Monthly-Yearly{
+    border-radius: 50px;
+    border: 1px solid gray;
+    width: fit-content;
+    padding:5px 10px;
+    position: absolute;
+    left: 40%;
+}
+.pricing{
+    color: #2b40ff;
+}
+.Monthly-Yearly button{
+    background-color: #fff;
+    border: none;
+    outline: none;
+    padding: 5px;
+}
+.btn-img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn-img img{
+    width: 70px;
+margin-left: 200px;
+
+}
+.save{
+    color: #2b40ff;
+}
+
+.Monthly:focus{ 
+    background-color: #2b40ff;
+    border-radius: 50px;
+    color: #fff;
+}
+.Yearly:focus{ 
+    background-color: #2b40ff;
+    border-radius: 50px;
+    color: #fff;
+}

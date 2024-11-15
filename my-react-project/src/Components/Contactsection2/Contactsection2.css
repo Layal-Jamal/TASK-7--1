@@ -1,0 +1,51 @@
+.bothleftright{
+    display: flex;
+}
+.call-us{
+    background-color: #384bff;
+    text-align: start;
+    display: flex;
+    flex-direction: column;
+    border-radius: 15px;
+    color: #fff;
+}
+.co-left,
+.co-right{
+    width: 50%;
+}
+.contactimg svg{
+    font-size: 45px;
+    margin-right: 10PX;
+    color: #fff;
+    padding: 10px;
+    border-radius: 50px;
+    border: 3px #fff dotted;
+ }
+ .video2{
+    width: 100%;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+ }
+ .inputfield{
+    display: flex;
+    justify-content: space-between;
+ }
+ .inputfield div{
+    width: 50%;
+ }
+.co-right{
+    background-color: #fff;
+}
+.co-right button{
+    border: none;
+    padding: 10px;
+    background-color: #384bff;
+    color: #fff;
+    border-radius: 50px;
+}
+.co-right textarea{
+    height: 200px;
+    border-radius: 7px;
+    border: solid 1px gray;
+    border-right: #384bff solid 4px;
+}

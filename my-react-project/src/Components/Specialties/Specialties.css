@@ -1,0 +1,42 @@
+
+.Specialties-info{
+    background-color: #18185e;
+    color: #fff;
+   padding: 200px 100px;
+    position: relative;
+    margin: 250px 0 50px;
+
+}
+.Video{
+    position: absolute;
+    bottom: 64%;
+    left: 7%;
+}
+.row-spec{
+position: absolute;
+bottom: 30%;
+}
+h3{
+    font-size: 20px;
+}
+.para{
+    font-size: 15px;
+}
+
+.one,
+.three,
+.four{
+    color: rgb(165, 161, 161)
+}
+@media (max-width:500px) {
+    .Specialties-info{
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+        
+    }
+    .Video{
+        width: 100%;
+    }
+    
+}

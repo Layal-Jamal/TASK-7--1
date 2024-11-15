@@ -1,0 +1,57 @@
+.LJ-Navbar{
+    width: 80%;
+    height: 80px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: fixed;
+    left: 50%;
+    top: -1px;
+    transform: translate(-50%);
+    background-color: #fff;
+    padding:0px 20px;
+    box-shadow: 10px 10px 4px #bdc2ff , -10px 10px 4px #bdc2ff;
+    z-index: 9999;
+    border-radius: 50px;
+}
+.LJ-Navbar h1{
+    font-size: 30px;
+    cursor: pointer;
+}
+.LJ-Navbar img{
+    width: 30px;
+    padding-bottom: 2px;
+}
+.Menu{
+    list-style: none;
+    display: flex;
+    align-items: center;
+
+}
+.side-2{
+    display: flex;
+}
+.LJ-Navbar button{
+    background-color: #384bff;
+    border: none;
+    padding: 10px;
+    color: white;
+    border-radius: 50px;
+}
+.Menu li{
+    font-size: 18px;
+    margin: 10px 10px 0;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    color: black;
+}
+.search-basket{
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+}
+.basket{
+    color: #384bff;
+    margin: 0 15px;
+}

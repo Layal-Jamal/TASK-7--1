@@ -1,0 +1,13 @@
+.persondiv{
+    color: #fff;
+}
+.persondiv img{
+    object-fit: cover;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+    height: 290px;
+}
+.ca-body{
+    background-color: #18185e;
+    padding: 10px;
+}

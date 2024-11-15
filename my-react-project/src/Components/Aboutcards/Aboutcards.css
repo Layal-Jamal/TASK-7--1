@@ -1,0 +1,28 @@
+.titleofsec{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.all-members button{
+    background-color: #384bff;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    border-radius: 50px;
+}
+.brands{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+}
+.envato{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px 30px;
+    margin-top: 20px;
+}
+.envatogrey{
+    filter: grayscale(100%);
+}

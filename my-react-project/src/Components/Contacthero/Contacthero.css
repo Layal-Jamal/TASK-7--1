@@ -1,0 +1,17 @@
+.herophoto{
+    width: 1300px;
+    margin-top: 60px;
+    padding: 0 !important;
+  }
+  .incenter{
+    position: absolute;
+    top: 30%;
+    color: #fff;
+    left: 50%;
+    transform: translate(-50%);
+    font-weight: bold;
+  }
+  .incenter h5{
+  color: #fff;
+  font-weight: bold;
+  }
